@@ -1,7 +1,5 @@
 <h1 align="left">Hi 👋! My name is Eliot GIRAUD and I'm a developer ,from France.</h1>
 
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EliotGIRAUD/EliotGIRAUD/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EliotGIRAUD/EliotGIRAUD/output/pacman-contribution-graph.svg">
