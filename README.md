@@ -1,7 +1,7 @@
 # Salut, moi c'est Eliot
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Eliot%20&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20&fontSize=70" />
 </p>
 
 ### À propos de moi
