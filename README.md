@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Eliot%20&fontSize=70" />
 </p>
+
 ### À propos de moi
 - **23 ans**
 - Passionné par le développement web
