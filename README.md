@@ -5,7 +5,7 @@
 </p>
 
 ### À propos de moi
-- **23 ans**
+- **24 ans**
 - Passionné par le développement web
 - Mon cœur penche pour le **Backend**, mais je maîtrise aussi le **Frontend**
 - Étudiant en Master (Alternance)
